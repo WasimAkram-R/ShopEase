@@ -1,0 +1,25 @@
+/* .searchinput::placeholder{
+    font-size: 13px;
+    font-weight: 400;
+    color: #171f52;
+    padding-left: 20px;
+}
+
+
+
+.searchinput:focus{
+    outline: none;
+    box-shadow: 0 0 5px  #4A90E2;
+}
+
+.search-container-icon{
+    position: relative;
+}
+.searchicon{
+    position: absolute;
+    top:50%;
+    left:40%;
+    transform:translateY(-50%);
+    transform:translateY(-40%);
+
+} */

@@ -1,0 +1,28 @@
+.titlefont{
+    font-size: 12px;
+}
+
+.buttons{
+    font-size: 12px;
+}
+.buttons:hover{
+    filter: brightness(75%);
+    transition: 0.3s;
+}
+
+
+.flow{
+    overflow: hidden;
+}
+
+.flowall{
+   box-shadow: 1px 1px 8px rgba(0,0,0, 0.5);
+}
+
+.cardimage:hover{
+    transform: scale(1.1);
+    transition: .2s;
+    /* overflow: hidden; */
+    filter: brightness(75%);
+}
+
